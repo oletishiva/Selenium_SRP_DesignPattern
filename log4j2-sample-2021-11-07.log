@@ -1,0 +1,700 @@
+[INFO ] 2021-11-07 07:40:12.754 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 07:40:44.655 [main] Log - *********************************
+[INFO ] 2021-11-07 07:40:44.655 [main] Log - Printing First Page Results of:cypress
+[INFO ] 2021-11-07 07:40:44.988 [main] Log - cypress-io/cypress
+[INFO ] 2021-11-07 07:40:45.041 [main] Log - cypress-io/cypress-example-recipes
+[INFO ] 2021-11-07 07:40:45.085 [main] Log - cypress-io/cypress-realworld-app
+[INFO ] 2021-11-07 07:40:45.155 [main] Log - cypress-io/cypress-example-kitchensink
+[INFO ] 2021-11-07 07:40:45.208 [main] Log - cypress-io/cypress-documentation
+[INFO ] 2021-11-07 07:40:45.257 [main] Log - sorry-cypress/sorry-cypress
+[INFO ] 2021-11-07 07:40:45.359 [main] Log - jaredpalmer/cypress-image-snapshot
+[INFO ] 2021-11-07 07:40:45.392 [main] Log - TheBrainFamily/cypress-cucumber-preprocessor
+[INFO ] 2021-11-07 07:40:45.421 [main] Log - cypress-io/cypress-docker-images
+[INFO ] 2021-11-07 07:40:45.489 [main] Log - cypress-io/cypress-test-tiny
+[INFO ] 2021-11-07 07:40:45.489 [main] Log - *********************************
+[INFO ] 2021-11-07 07:40:50.012 [main] Log - *********************************
+[INFO ] 2021-11-07 07:40:50.012 [main] Log - Printing First Page Results of:selenium
+[INFO ] 2021-11-07 07:40:50.084 [main] Log - SeleniumHQ/selenium
+[INFO ] 2021-11-07 07:40:50.142 [main] Log - seleniumbase/SeleniumBase
+[INFO ] 2021-11-07 07:40:50.194 [main] Log - tebeka/selenium
+[INFO ] 2021-11-07 07:40:50.259 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:40:50.325 [main] Log - SeleniumHQ/docker-selenium
+[INFO ] 2021-11-07 07:40:50.378 [main] Log - executeautomation/SeleniumWithCucucumber
+[INFO ] 2021-11-07 07:40:50.446 [main] Log - SeleniumHQ/selenium-ide
+[INFO ] 2021-11-07 07:40:50.497 [main] Log - baijum/selenium-python
+[INFO ] 2021-11-07 07:40:50.559 [main] Log - watir/watir
+[INFO ] 2021-11-07 07:40:50.598 [main] Log - naveenanimation20/SeleniumJavaCourse
+[INFO ] 2021-11-07 07:40:50.598 [main] Log - *********************************
+[INFO ] 2021-11-07 07:40:56.825 [main] Log - *********************************
+[INFO ] 2021-11-07 07:40:56.826 [main] Log - Printing First Page Results of:ROBOTFRAMEWORK
+[INFO ] 2021-11-07 07:40:56.881 [main] Log - robotframework/robotframework
+[INFO ] 2021-11-07 07:40:56.962 [main] Log - MarketSquare/robotframework-requests
+[INFO ] 2021-11-07 07:40:56.992 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:40:57.042 [main] Log - fkromer/awesome-robotframework
+[INFO ] 2021-11-07 07:40:57.128 [main] Log - franz-see/Robotframework-Database-Library
+[INFO ] 2021-11-07 07:40:57.211 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:40:57.239 [main] Log - up1/course-robotframework
+[INFO ] 2021-11-07 07:40:57.324 [main] Log - boakley/robotframework-hub
+[INFO ] 2021-11-07 07:40:57.352 [main] Log - peritus/robotframework-httplibrary
+[INFO ] 2021-11-07 07:40:57.400 [main] Log - ncbi/robotframework-pageobjects
+[INFO ] 2021-11-07 07:40:57.401 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:01.805 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:01.805 [main] Log - Printing First Page Results of:data +ana
+[INFO ] 2021-11-07 07:41:01.911 [main] Log - BahramJannesar/BikeShare
+[INFO ] 2021-11-07 07:41:01.964 [main] Log - IntelligentSolution-Dz/University-of-Liverpool-ion-switching
+[INFO ] 2021-11-07 07:41:01.992 [main] Log - adichouhan14/Covid-Project
+[INFO ] 2021-11-07 07:41:02.061 [main] Log - panbognot/stana
+[INFO ] 2021-11-07 07:41:02.127 [main] Log - alexnaoki/LHC_Hidroweb_Kivy
+[INFO ] 2021-11-07 07:41:02.157 [main] Log - sp3ncore/data499Project
+[INFO ] 2021-11-07 07:41:02.190 [main] Log - Rodgers-Luo/get_data
+[INFO ] 2021-11-07 07:41:02.290 [main] Log - lightxu/fetch_flight_data
+[INFO ] 2021-11-07 07:41:02.356 [main] Log - 945GeekBoy/-
+[INFO ] 2021-11-07 07:41:02.402 [main] Log - EvanOmy/Omy
+[INFO ] 2021-11-07 07:41:02.402 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:06.958 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:06.959 [main] Log - Printing First Page Results of:MetRIcs
+[INFO ] 2021-11-07 07:41:07.017 [main] Log - dropwizard/metrics
+[INFO ] 2021-11-07 07:41:07.067 [main] Log - prometheus/node_exporter
+[INFO ] 2021-11-07 07:41:07.113 [main] Log - GoogleChrome/lighthouse
+[INFO ] 2021-11-07 07:41:07.178 [main] Log - lowlighter/metrics
+[INFO ] 2021-11-07 07:41:07.251 [main] Log - benhamner/Metrics
+[INFO ] 2021-11-07 07:41:07.285 [main] Log - influxdata/telegraf
+[INFO ] 2021-11-07 07:41:07.339 [main] Log - influxdata/influxdb
+[INFO ] 2021-11-07 07:41:07.404 [main] Log - micrometer-metrics/micrometer
+[INFO ] 2021-11-07 07:41:07.439 [main] Log - bcicen/ctop
+[INFO ] 2021-11-07 07:41:07.469 [main] Log - kubernetes-sigs/metrics-server
+[INFO ] 2021-11-07 07:41:07.469 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:12.427 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:12.427 [main] Log - Printing First Page Results of: appium 
+[INFO ] 2021-11-07 07:41:12.473 [main] Log - appium/appium
+[INFO ] 2021-11-07 07:41:12.507 [main] Log - appium/appium-desktop
+[INFO ] 2021-11-07 07:41:12.541 [main] Log - AppiumTestDistribution/AppiumTestDistribution
+[INFO ] 2021-11-07 07:41:12.593 [main] Log - appium/python-client
+[INFO ] 2021-11-07 07:41:12.663 [main] Log - Louis-me/appiumn_auto
+[INFO ] 2021-11-07 07:41:12.715 [main] Log - Louis-me/appium
+[INFO ] 2021-11-07 07:41:12.779 [main] Log - appium/appium-android-driver
+[INFO ] 2021-11-07 07:41:12.817 [main] Log - appium/appium-xcuitest-driver
+[INFO ] 2021-11-07 07:41:12.920 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:41:12.969 [main] Log - microsoft/WinAppDriver
+[INFO ] 2021-11-07 07:41:12.969 [main] Log - *********************************
+[INFO ] 2021-11-07 07:41:13.032 [main] Log - Browser Quit
+[INFO ] 2021-11-07 07:45:56.935 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 07:45:56.971 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 07:46:16.517 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 07:46:16.546 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 07:46:25.206 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:46:35.736 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:35.737 [main] Log - Printing First Page Results of:cypress
+[INFO ] 2021-11-07 07:46:35.841 [main] Log - cypress-io/cypress
+[INFO ] 2021-11-07 07:46:35.867 [main] Log - cypress-io/cypress-example-recipes
+[INFO ] 2021-11-07 07:46:35.896 [main] Log - cypress-io/cypress-realworld-app
+[INFO ] 2021-11-07 07:46:35.949 [main] Log - cypress-io/cypress-example-kitchensink
+[INFO ] 2021-11-07 07:46:36.009 [main] Log - cypress-io/cypress-documentation
+[INFO ] 2021-11-07 07:46:36.036 [main] Log - sorry-cypress/sorry-cypress
+[INFO ] 2021-11-07 07:46:36.063 [main] Log - jaredpalmer/cypress-image-snapshot
+[INFO ] 2021-11-07 07:46:36.116 [main] Log - TheBrainFamily/cypress-cucumber-preprocessor
+[INFO ] 2021-11-07 07:46:36.207 [main] Log - cypress-io/cypress-docker-images
+[INFO ] 2021-11-07 07:46:36.260 [main] Log - cypress-io/cypress-test-tiny
+[INFO ] 2021-11-07 07:46:36.260 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:36.264 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:46:36.282 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:46:40.724 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:40.724 [main] Log - Printing First Page Results of:selenium
+[INFO ] 2021-11-07 07:46:40.784 [main] Log - SeleniumHQ/selenium
+[INFO ] 2021-11-07 07:46:40.826 [main] Log - seleniumbase/SeleniumBase
+[INFO ] 2021-11-07 07:46:40.860 [main] Log - tebeka/selenium
+[INFO ] 2021-11-07 07:46:40.891 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:46:40.922 [main] Log - SeleniumHQ/docker-selenium
+[INFO ] 2021-11-07 07:46:40.960 [main] Log - executeautomation/SeleniumWithCucucumber
+[INFO ] 2021-11-07 07:46:40.992 [main] Log - SeleniumHQ/selenium-ide
+[INFO ] 2021-11-07 07:46:41.025 [main] Log - baijum/selenium-python
+[INFO ] 2021-11-07 07:46:41.073 [main] Log - watir/watir
+[INFO ] 2021-11-07 07:46:41.123 [main] Log - naveenanimation20/SeleniumJavaCourse
+[INFO ] 2021-11-07 07:46:41.123 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:41.123 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:46:41.124 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:46:45.395 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:45.396 [main] Log - Printing First Page Results of:ROBOTFRAMEWORK
+[INFO ] 2021-11-07 07:46:45.449 [main] Log - robotframework/robotframework
+[INFO ] 2021-11-07 07:46:45.485 [main] Log - MarketSquare/robotframework-requests
+[INFO ] 2021-11-07 07:46:45.512 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:46:45.555 [main] Log - fkromer/awesome-robotframework
+[INFO ] 2021-11-07 07:46:45.587 [main] Log - franz-see/Robotframework-Database-Library
+[INFO ] 2021-11-07 07:46:45.641 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:46:45.693 [main] Log - up1/course-robotframework
+[INFO ] 2021-11-07 07:46:45.739 [main] Log - boakley/robotframework-hub
+[INFO ] 2021-11-07 07:46:45.787 [main] Log - peritus/robotframework-httplibrary
+[INFO ] 2021-11-07 07:46:45.834 [main] Log - ncbi/robotframework-pageobjects
+[INFO ] 2021-11-07 07:46:45.834 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:45.835 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:46:45.836 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:46:49.920 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:49.920 [main] Log - Printing First Page Results of:data +ana
+[INFO ] 2021-11-07 07:46:49.975 [main] Log - BahramJannesar/BikeShare
+[INFO ] 2021-11-07 07:46:50.004 [main] Log - IntelligentSolution-Dz/University-of-Liverpool-ion-switching
+[INFO ] 2021-11-07 07:46:50.052 [main] Log - adichouhan14/Covid-Project
+[INFO ] 2021-11-07 07:46:50.090 [main] Log - panbognot/stana
+[INFO ] 2021-11-07 07:46:50.136 [main] Log - alexnaoki/LHC_Hidroweb_Kivy
+[INFO ] 2021-11-07 07:46:50.178 [main] Log - sp3ncore/data499Project
+[INFO ] 2021-11-07 07:46:50.226 [main] Log - Rodgers-Luo/get_data
+[INFO ] 2021-11-07 07:46:50.257 [main] Log - lightxu/fetch_flight_data
+[INFO ] 2021-11-07 07:46:50.287 [main] Log - 945GeekBoy/-
+[INFO ] 2021-11-07 07:46:50.320 [main] Log - EvanOmy/Omy
+[INFO ] 2021-11-07 07:46:50.320 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:50.321 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:46:50.321 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:46:54.812 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:54.814 [main] Log - Printing First Page Results of:MetRIcs
+[INFO ] 2021-11-07 07:46:54.916 [main] Log - dropwizard/metrics
+[INFO ] 2021-11-07 07:46:54.958 [main] Log - prometheus/node_exporter
+[INFO ] 2021-11-07 07:46:54.987 [main] Log - GoogleChrome/lighthouse
+[INFO ] 2021-11-07 07:46:55.029 [main] Log - lowlighter/metrics
+[INFO ] 2021-11-07 07:46:55.086 [main] Log - benhamner/Metrics
+[INFO ] 2021-11-07 07:46:55.124 [main] Log - influxdata/telegraf
+[INFO ] 2021-11-07 07:46:55.170 [main] Log - influxdata/influxdb
+[INFO ] 2021-11-07 07:46:55.209 [main] Log - micrometer-metrics/micrometer
+[INFO ] 2021-11-07 07:46:55.238 [main] Log - bcicen/ctop
+[INFO ] 2021-11-07 07:46:55.284 [main] Log - kubernetes-sigs/metrics-server
+[INFO ] 2021-11-07 07:46:55.284 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:55.285 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:46:55.286 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:46:59.814 [main] Log - *********************************
+[INFO ] 2021-11-07 07:46:59.814 [main] Log - Printing First Page Results of: appium 
+[INFO ] 2021-11-07 07:46:59.906 [main] Log - appium/appium
+[INFO ] 2021-11-07 07:46:59.938 [main] Log - appium/appium-desktop
+[INFO ] 2021-11-07 07:46:59.967 [main] Log - AppiumTestDistribution/AppiumTestDistribution
+[INFO ] 2021-11-07 07:47:00.008 [main] Log - appium/python-client
+[INFO ] 2021-11-07 07:47:00.056 [main] Log - Louis-me/appiumn_auto
+[INFO ] 2021-11-07 07:47:00.099 [main] Log - Louis-me/appium
+[INFO ] 2021-11-07 07:47:00.132 [main] Log - appium/appium-android-driver
+[INFO ] 2021-11-07 07:47:00.186 [main] Log - appium/appium-xcuitest-driver
+[INFO ] 2021-11-07 07:47:00.233 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:47:00.271 [main] Log - microsoft/WinAppDriver
+[INFO ] 2021-11-07 07:47:00.271 [main] Log - *********************************
+[INFO ] 2021-11-07 07:47:00.272 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:47:00.289 [main] Log - Browser Quit
+[INFO ] 2021-11-07 07:47:01.190 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 07:50:15.875 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 07:50:15.942 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 07:50:21.747 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:50:29.153 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:29.153 [main] Log - Printing First Page Results of:cypress
+[INFO ] 2021-11-07 07:50:29.248 [main] Log - cypress-io/cypress
+[INFO ] 2021-11-07 07:50:29.274 [main] Log - cypress-io/cypress-example-recipes
+[INFO ] 2021-11-07 07:50:29.319 [main] Log - cypress-io/cypress-realworld-app
+[INFO ] 2021-11-07 07:50:29.383 [main] Log - cypress-io/cypress-example-kitchensink
+[INFO ] 2021-11-07 07:50:29.446 [main] Log - cypress-io/cypress-documentation
+[INFO ] 2021-11-07 07:50:29.484 [main] Log - sorry-cypress/sorry-cypress
+[INFO ] 2021-11-07 07:50:29.530 [main] Log - jaredpalmer/cypress-image-snapshot
+[INFO ] 2021-11-07 07:50:29.565 [main] Log - TheBrainFamily/cypress-cucumber-preprocessor
+[INFO ] 2021-11-07 07:50:29.594 [main] Log - cypress-io/cypress-docker-images
+[INFO ] 2021-11-07 07:50:29.626 [main] Log - cypress-io/cypress-test-tiny
+[INFO ] 2021-11-07 07:50:29.627 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:29.630 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:50:29.638 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:50:34.298 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:34.298 [main] Log - Printing First Page Results of:selenium
+[INFO ] 2021-11-07 07:50:34.339 [main] Log - SeleniumHQ/selenium
+[INFO ] 2021-11-07 07:50:34.387 [main] Log - seleniumbase/SeleniumBase
+[INFO ] 2021-11-07 07:50:34.415 [main] Log - tebeka/selenium
+[INFO ] 2021-11-07 07:50:34.476 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:50:34.533 [main] Log - SeleniumHQ/docker-selenium
+[INFO ] 2021-11-07 07:50:34.563 [main] Log - executeautomation/SeleniumWithCucucumber
+[INFO ] 2021-11-07 07:50:34.627 [main] Log - SeleniumHQ/selenium-ide
+[INFO ] 2021-11-07 07:50:34.667 [main] Log - baijum/selenium-python
+[INFO ] 2021-11-07 07:50:34.706 [main] Log - watir/watir
+[INFO ] 2021-11-07 07:50:34.752 [main] Log - naveenanimation20/SeleniumJavaCourse
+[INFO ] 2021-11-07 07:50:34.753 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:34.753 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:50:34.754 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:50:39.300 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:39.300 [main] Log - Printing First Page Results of:ROBOTFRAMEWORK
+[INFO ] 2021-11-07 07:50:39.363 [main] Log - robotframework/robotframework
+[INFO ] 2021-11-07 07:50:39.399 [main] Log - MarketSquare/robotframework-requests
+[INFO ] 2021-11-07 07:50:39.441 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:50:39.480 [main] Log - fkromer/awesome-robotframework
+[INFO ] 2021-11-07 07:50:39.521 [main] Log - franz-see/Robotframework-Database-Library
+[INFO ] 2021-11-07 07:50:39.558 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:50:39.592 [main] Log - up1/course-robotframework
+[INFO ] 2021-11-07 07:50:39.629 [main] Log - boakley/robotframework-hub
+[INFO ] 2021-11-07 07:50:39.673 [main] Log - peritus/robotframework-httplibrary
+[INFO ] 2021-11-07 07:50:39.715 [main] Log - ncbi/robotframework-pageobjects
+[INFO ] 2021-11-07 07:50:39.715 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:39.716 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:50:39.717 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:50:43.939 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:43.939 [main] Log - Printing First Page Results of:data +ana
+[INFO ] 2021-11-07 07:50:43.986 [main] Log - BahramJannesar/BikeShare
+[INFO ] 2021-11-07 07:50:44.017 [main] Log - IntelligentSolution-Dz/University-of-Liverpool-ion-switching
+[INFO ] 2021-11-07 07:50:44.066 [main] Log - adichouhan14/Covid-Project
+[INFO ] 2021-11-07 07:50:44.108 [main] Log - panbognot/stana
+[INFO ] 2021-11-07 07:50:44.147 [main] Log - alexnaoki/LHC_Hidroweb_Kivy
+[INFO ] 2021-11-07 07:50:44.196 [main] Log - sp3ncore/data499Project
+[INFO ] 2021-11-07 07:50:44.230 [main] Log - Rodgers-Luo/get_data
+[INFO ] 2021-11-07 07:50:44.285 [main] Log - lightxu/fetch_flight_data
+[INFO ] 2021-11-07 07:50:44.339 [main] Log - 945GeekBoy/-
+[INFO ] 2021-11-07 07:50:44.391 [main] Log - EvanOmy/Omy
+[INFO ] 2021-11-07 07:50:44.391 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:44.391 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:50:44.392 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:50:49.346 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:49.347 [main] Log - Printing First Page Results of:MetRIcs
+[INFO ] 2021-11-07 07:50:49.394 [main] Log - dropwizard/metrics
+[INFO ] 2021-11-07 07:50:49.440 [main] Log - prometheus/node_exporter
+[INFO ] 2021-11-07 07:50:49.484 [main] Log - GoogleChrome/lighthouse
+[INFO ] 2021-11-07 07:50:49.520 [main] Log - lowlighter/metrics
+[INFO ] 2021-11-07 07:50:49.558 [main] Log - benhamner/Metrics
+[INFO ] 2021-11-07 07:50:49.611 [main] Log - influxdata/telegraf
+[INFO ] 2021-11-07 07:50:49.643 [main] Log - influxdata/influxdb
+[INFO ] 2021-11-07 07:50:49.692 [main] Log - micrometer-metrics/micrometer
+[INFO ] 2021-11-07 07:50:49.751 [main] Log - bcicen/ctop
+[INFO ] 2021-11-07 07:50:49.813 [main] Log - kubernetes-sigs/metrics-server
+[INFO ] 2021-11-07 07:50:49.813 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:49.814 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:50:49.815 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:50:54.469 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:54.470 [main] Log - Printing First Page Results of: appium 
+[INFO ] 2021-11-07 07:50:54.512 [main] Log - appium/appium
+[INFO ] 2021-11-07 07:50:54.542 [main] Log - appium/appium-desktop
+[INFO ] 2021-11-07 07:50:54.572 [main] Log - AppiumTestDistribution/AppiumTestDistribution
+[INFO ] 2021-11-07 07:50:54.619 [main] Log - appium/python-client
+[INFO ] 2021-11-07 07:50:54.650 [main] Log - Louis-me/appiumn_auto
+[INFO ] 2021-11-07 07:50:54.684 [main] Log - Louis-me/appium
+[INFO ] 2021-11-07 07:50:54.730 [main] Log - appium/appium-android-driver
+[INFO ] 2021-11-07 07:50:54.772 [main] Log - appium/appium-xcuitest-driver
+[INFO ] 2021-11-07 07:50:54.803 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:50:54.833 [main] Log - microsoft/WinAppDriver
+[INFO ] 2021-11-07 07:50:54.834 [main] Log - *********************************
+[INFO ] 2021-11-07 07:50:54.834 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:50:54.847 [main] Log - Browser Quit
+[INFO ] 2021-11-07 07:50:55.859 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 07:55:25.446 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 07:55:25.499 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 07:55:31.623 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:55:40.358 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:40.359 [main] Log - Printing First Page Results of:cypress
+[INFO ] 2021-11-07 07:55:40.426 [main] Log - cypress-io/cypress
+[INFO ] 2021-11-07 07:55:40.483 [main] Log - cypress-io/cypress-example-recipes
+[INFO ] 2021-11-07 07:55:40.700 [main] Log - cypress-io/cypress-realworld-app
+[INFO ] 2021-11-07 07:55:40.753 [main] Log - cypress-io/cypress-example-kitchensink
+[INFO ] 2021-11-07 07:55:41.060 [main] Log - cypress-io/cypress-documentation
+[INFO ] 2021-11-07 07:55:41.140 [main] Log - sorry-cypress/sorry-cypress
+[INFO ] 2021-11-07 07:55:41.177 [main] Log - jaredpalmer/cypress-image-snapshot
+[INFO ] 2021-11-07 07:55:41.218 [main] Log - TheBrainFamily/cypress-cucumber-preprocessor
+[INFO ] 2021-11-07 07:55:41.281 [main] Log - cypress-io/cypress-docker-images
+[INFO ] 2021-11-07 07:55:41.375 [main] Log - cypress-io/cypress-test-tiny
+[INFO ] 2021-11-07 07:55:41.376 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:41.382 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:55:41.392 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:55:45.495 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:45.495 [main] Log - Printing First Page Results of:selenium
+[INFO ] 2021-11-07 07:55:45.536 [main] Log - SeleniumHQ/selenium
+[INFO ] 2021-11-07 07:55:45.562 [main] Log - seleniumbase/SeleniumBase
+[INFO ] 2021-11-07 07:55:45.608 [main] Log - tebeka/selenium
+[INFO ] 2021-11-07 07:55:45.655 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:55:45.719 [main] Log - SeleniumHQ/docker-selenium
+[INFO ] 2021-11-07 07:55:45.754 [main] Log - executeautomation/SeleniumWithCucucumber
+[INFO ] 2021-11-07 07:55:45.799 [main] Log - SeleniumHQ/selenium-ide
+[INFO ] 2021-11-07 07:55:45.831 [main] Log - baijum/selenium-python
+[INFO ] 2021-11-07 07:55:45.859 [main] Log - watir/watir
+[INFO ] 2021-11-07 07:55:45.903 [main] Log - naveenanimation20/SeleniumJavaCourse
+[INFO ] 2021-11-07 07:55:45.903 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:45.903 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:55:45.905 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:55:50.392 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:50.392 [main] Log - Printing First Page Results of:ROBOTFRAMEWORK
+[INFO ] 2021-11-07 07:55:50.476 [main] Log - robotframework/robotframework
+[INFO ] 2021-11-07 07:55:50.514 [main] Log - MarketSquare/robotframework-requests
+[INFO ] 2021-11-07 07:55:50.558 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:55:50.611 [main] Log - fkromer/awesome-robotframework
+[INFO ] 2021-11-07 07:55:50.642 [main] Log - franz-see/Robotframework-Database-Library
+[INFO ] 2021-11-07 07:55:50.670 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 07:55:50.742 [main] Log - up1/course-robotframework
+[INFO ] 2021-11-07 07:55:50.776 [main] Log - boakley/robotframework-hub
+[INFO ] 2021-11-07 07:55:50.868 [main] Log - peritus/robotframework-httplibrary
+[INFO ] 2021-11-07 07:55:50.906 [main] Log - ncbi/robotframework-pageobjects
+[INFO ] 2021-11-07 07:55:50.906 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:50.907 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:55:50.908 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:55:55.409 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:55.409 [main] Log - Printing First Page Results of:data +ana
+[INFO ] 2021-11-07 07:55:55.483 [main] Log - BahramJannesar/BikeShare
+[INFO ] 2021-11-07 07:55:55.605 [main] Log - IntelligentSolution-Dz/University-of-Liverpool-ion-switching
+[INFO ] 2021-11-07 07:55:55.683 [main] Log - adichouhan14/Covid-Project
+[INFO ] 2021-11-07 07:55:55.721 [main] Log - panbognot/stana
+[INFO ] 2021-11-07 07:55:55.757 [main] Log - alexnaoki/LHC_Hidroweb_Kivy
+[INFO ] 2021-11-07 07:55:55.787 [main] Log - sp3ncore/data499Project
+[INFO ] 2021-11-07 07:55:55.840 [main] Log - Rodgers-Luo/get_data
+[INFO ] 2021-11-07 07:55:55.868 [main] Log - lightxu/fetch_flight_data
+[INFO ] 2021-11-07 07:55:55.897 [main] Log - 945GeekBoy/-
+[INFO ] 2021-11-07 07:55:55.928 [main] Log - EvanOmy/Omy
+[INFO ] 2021-11-07 07:55:55.928 [main] Log - *********************************
+[INFO ] 2021-11-07 07:55:55.929 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:55:55.930 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:56:00.380 [main] Log - *********************************
+[INFO ] 2021-11-07 07:56:00.381 [main] Log - Printing First Page Results of:MetRIcs
+[INFO ] 2021-11-07 07:56:00.465 [main] Log - dropwizard/metrics
+[INFO ] 2021-11-07 07:56:00.509 [main] Log - prometheus/node_exporter
+[INFO ] 2021-11-07 07:56:00.540 [main] Log - GoogleChrome/lighthouse
+[INFO ] 2021-11-07 07:56:00.568 [main] Log - lowlighter/metrics
+[INFO ] 2021-11-07 07:56:00.605 [main] Log - benhamner/Metrics
+[INFO ] 2021-11-07 07:56:00.645 [main] Log - influxdata/telegraf
+[INFO ] 2021-11-07 07:56:00.702 [main] Log - influxdata/influxdb
+[INFO ] 2021-11-07 07:56:00.750 [main] Log - micrometer-metrics/micrometer
+[INFO ] 2021-11-07 07:56:00.798 [main] Log - bcicen/ctop
+[INFO ] 2021-11-07 07:56:00.851 [main] Log - kubernetes-sigs/metrics-server
+[INFO ] 2021-11-07 07:56:00.851 [main] Log - *********************************
+[INFO ] 2021-11-07 07:56:00.852 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:56:00.853 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 07:56:05.364 [main] Log - *********************************
+[INFO ] 2021-11-07 07:56:05.364 [main] Log - Printing First Page Results of: appium 
+[INFO ] 2021-11-07 07:56:05.429 [main] Log - appium/appium
+[INFO ] 2021-11-07 07:56:05.478 [main] Log - appium/appium-desktop
+[INFO ] 2021-11-07 07:56:05.508 [main] Log - AppiumTestDistribution/AppiumTestDistribution
+[INFO ] 2021-11-07 07:56:05.542 [main] Log - appium/python-client
+[INFO ] 2021-11-07 07:56:05.616 [main] Log - Louis-me/appiumn_auto
+[INFO ] 2021-11-07 07:56:05.669 [main] Log - Louis-me/appium
+[INFO ] 2021-11-07 07:56:05.705 [main] Log - appium/appium-android-driver
+[INFO ] 2021-11-07 07:56:05.796 [main] Log - appium/appium-xcuitest-driver
+[INFO ] 2021-11-07 07:56:05.845 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 07:56:05.870 [main] Log - microsoft/WinAppDriver
+[INFO ] 2021-11-07 07:56:05.871 [main] Log - *********************************
+[INFO ] 2021-11-07 07:56:05.872 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 07:56:05.876 [main] Log - Browser Quit
+[INFO ] 2021-11-07 07:56:07.285 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 12:28:14.426 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 12:28:14.477 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 12:28:28.698 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:28:48.931 [main] Log - *********************************
+[INFO ] 2021-11-07 12:28:48.931 [main] Log - Printing First Page Results of:cypress
+[INFO ] 2021-11-07 12:28:49.156 [main] Log - cypress-io/cypress
+[INFO ] 2021-11-07 12:28:49.206 [main] Log - cypress-io/cypress-example-recipes
+[INFO ] 2021-11-07 12:28:49.250 [main] Log - cypress-io/cypress-realworld-app
+[INFO ] 2021-11-07 12:28:49.304 [main] Log - cypress-io/cypress-example-kitchensink
+[INFO ] 2021-11-07 12:28:49.349 [main] Log - cypress-io/cypress-documentation
+[INFO ] 2021-11-07 12:28:49.432 [main] Log - sorry-cypress/sorry-cypress
+[INFO ] 2021-11-07 12:28:49.476 [main] Log - jaredpalmer/cypress-image-snapshot
+[INFO ] 2021-11-07 12:28:49.506 [main] Log - TheBrainFamily/cypress-cucumber-preprocessor
+[INFO ] 2021-11-07 12:28:49.533 [main] Log - cypress-io/cypress-docker-images
+[INFO ] 2021-11-07 12:28:49.607 [main] Log - cypress-io/cypress-test-tiny
+[INFO ] 2021-11-07 12:28:49.607 [main] Log - *********************************
+[INFO ] 2021-11-07 12:28:49.613 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 12:28:49.650 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:28:54.610 [main] Log - *********************************
+[INFO ] 2021-11-07 12:28:54.611 [main] Log - Printing First Page Results of:selenium
+[INFO ] 2021-11-07 12:28:54.797 [main] Log - SeleniumHQ/selenium
+[INFO ] 2021-11-07 12:28:54.840 [main] Log - seleniumbase/SeleniumBase
+[INFO ] 2021-11-07 12:28:55.070 [main] Log - tebeka/selenium
+[INFO ] 2021-11-07 12:28:55.181 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 12:28:55.310 [main] Log - SeleniumHQ/docker-selenium
+[INFO ] 2021-11-07 12:28:55.388 [main] Log - executeautomation/SeleniumWithCucucumber
+[INFO ] 2021-11-07 12:28:55.571 [main] Log - SeleniumHQ/selenium-ide
+[INFO ] 2021-11-07 12:28:55.618 [main] Log - baijum/selenium-python
+[INFO ] 2021-11-07 12:28:55.645 [main] Log - watir/watir
+[INFO ] 2021-11-07 12:28:55.729 [main] Log - naveenanimation20/SeleniumJavaCourse
+[INFO ] 2021-11-07 12:28:55.730 [main] Log - *********************************
+[INFO ] 2021-11-07 12:28:55.730 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 12:28:55.731 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:29:01.315 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:01.315 [main] Log - Printing First Page Results of:ROBOTFRAMEWORK
+[INFO ] 2021-11-07 12:29:01.463 [main] Log - robotframework/robotframework
+[INFO ] 2021-11-07 12:29:01.618 [main] Log - MarketSquare/robotframework-requests
+[INFO ] 2021-11-07 12:29:01.678 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 12:29:01.718 [main] Log - fkromer/awesome-robotframework
+[INFO ] 2021-11-07 12:29:01.763 [main] Log - franz-see/Robotframework-Database-Library
+[INFO ] 2021-11-07 12:29:01.810 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 12:29:01.949 [main] Log - up1/course-robotframework
+[INFO ] 2021-11-07 12:29:02.017 [main] Log - boakley/robotframework-hub
+[INFO ] 2021-11-07 12:29:02.051 [main] Log - peritus/robotframework-httplibrary
+[INFO ] 2021-11-07 12:29:02.087 [main] Log - ncbi/robotframework-pageobjects
+[INFO ] 2021-11-07 12:29:02.087 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:02.088 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 12:29:02.088 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:29:06.374 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:06.374 [main] Log - Printing First Page Results of:data +ana
+[INFO ] 2021-11-07 12:29:06.437 [main] Log - BahramJannesar/BikeShare
+[INFO ] 2021-11-07 12:29:06.477 [main] Log - IntelligentSolution-Dz/University-of-Liverpool-ion-switching
+[INFO ] 2021-11-07 12:29:06.520 [main] Log - adichouhan14/Covid-Project
+[INFO ] 2021-11-07 12:29:06.562 [main] Log - panbognot/stana
+[INFO ] 2021-11-07 12:29:06.589 [main] Log - alexnaoki/LHC_Hidroweb_Kivy
+[INFO ] 2021-11-07 12:29:06.628 [main] Log - sp3ncore/data499Project
+[INFO ] 2021-11-07 12:29:06.720 [main] Log - Rodgers-Luo/get_data
+[INFO ] 2021-11-07 12:29:06.779 [main] Log - lightxu/fetch_flight_data
+[INFO ] 2021-11-07 12:29:06.814 [main] Log - 945GeekBoy/-
+[INFO ] 2021-11-07 12:29:06.860 [main] Log - EvanOmy/Omy
+[INFO ] 2021-11-07 12:29:06.860 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:06.860 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 12:29:06.861 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:29:11.506 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:11.507 [main] Log - Printing First Page Results of:MetRIcs
+[INFO ] 2021-11-07 12:29:11.579 [main] Log - dropwizard/metrics
+[INFO ] 2021-11-07 12:29:11.626 [main] Log - prometheus/node_exporter
+[INFO ] 2021-11-07 12:29:11.663 [main] Log - GoogleChrome/lighthouse
+[INFO ] 2021-11-07 12:29:11.717 [main] Log - lowlighter/metrics
+[INFO ] 2021-11-07 12:29:11.770 [main] Log - benhamner/Metrics
+[INFO ] 2021-11-07 12:29:11.828 [main] Log - influxdata/telegraf
+[INFO ] 2021-11-07 12:29:11.876 [main] Log - influxdata/influxdb
+[INFO ] 2021-11-07 12:29:11.954 [main] Log - micrometer-metrics/micrometer
+[INFO ] 2021-11-07 12:29:12.039 [main] Log - bcicen/ctop
+[INFO ] 2021-11-07 12:29:12.102 [main] Log - kubernetes-sigs/metrics-server
+[INFO ] 2021-11-07 12:29:12.103 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:12.103 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 12:29:12.104 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:29:17.010 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:17.010 [main] Log - Printing First Page Results of: appium 
+[INFO ] 2021-11-07 12:29:17.106 [main] Log - appium/appium
+[INFO ] 2021-11-07 12:29:17.190 [main] Log - appium/appium-desktop
+[INFO ] 2021-11-07 12:29:17.229 [main] Log - AppiumTestDistribution/AppiumTestDistribution
+[INFO ] 2021-11-07 12:29:17.288 [main] Log - appium/python-client
+[INFO ] 2021-11-07 12:29:17.331 [main] Log - Louis-me/appiumn_auto
+[INFO ] 2021-11-07 12:29:17.371 [main] Log - Louis-me/appium
+[INFO ] 2021-11-07 12:29:17.442 [main] Log - appium/appium-android-driver
+[INFO ] 2021-11-07 12:29:17.526 [main] Log - appium/appium-xcuitest-driver
+[INFO ] 2021-11-07 12:29:17.600 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 12:29:17.776 [main] Log - microsoft/WinAppDriver
+[INFO ] 2021-11-07 12:29:17.777 [main] Log - *********************************
+[INFO ] 2021-11-07 12:29:17.777 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 12:29:17.778 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:29:20.707 [main] Log - gitHubFlow test is skipped.
+[INFO ] 2021-11-07 12:29:20.709 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 12:29:23.749 [main] Log - gitHubFlow test is failed.
+[INFO ] 2021-11-07 12:29:23.861 [main] Log - Browser Quit
+[INFO ] 2021-11-07 12:29:24.917 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 14:38:42.879 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 14:38:46.358 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:38:55.955 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:38:55.986 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:38:57.914 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:38:57.916 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:38:59.759 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:38:59.761 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:39:02.404 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:39:02.405 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:39:04.011 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:39:04.013 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:39:05.588 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:39:05.592 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:39:06.207 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:39:06.210 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 14:51:46.656 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 14:51:50.044 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:06.040 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:06.133 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:07.981 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:07.982 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:09.524 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:09.526 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:11.314 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:11.317 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:12.896 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:12.898 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:14.451 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:14.452 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 14:52:15.049 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 14:52:15.054 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:20:42.245 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:20:49.569 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:20:59.061 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:20:59.062 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:26:00.766 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:26:01.482 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:26:07.692 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:26:07.694 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:27:02.119 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:27:03.153 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:27:09.223 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:27:09.226 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:33:39.316 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:33:40.138 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:33:47.203 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:33:47.204 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:38:23.646 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:38:25.084 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:38:34.440 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:38:34.448 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:40:17.960 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:40:19.385 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:40:27.507 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:40:27.511 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:43:15.674 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:43:16.954 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:25.104 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:25.133 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:27.344 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:27.347 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:29.126 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:29.130 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:30.521 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:30.536 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:32.124 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:32.125 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:33.616 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:33.619 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:43:34.261 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 15:43:34.264 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 15:44:51.149 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 15:44:52.108 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 15:44:58.409 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 15:44:58.410 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:27:48.604 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:28:11.606 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:29:09.468 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:29:09.471 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:30:12.101 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:30:14.948 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:22.823 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:22.835 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:24.634 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:24.636 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:26.157 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:26.157 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:28.580 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:28.582 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:30.124 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:30.125 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:32.308 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:32.310 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:30:32.919 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:30:32.923 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:35:04.418 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:35:06.351 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:35:16.253 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:35:16.255 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:35:44.267 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:35:44.995 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:35:52.558 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:35:52.561 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:36:38.630 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:36:39.433 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:36:45.670 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:36:45.672 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:37:41.957 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:37:43.306 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:37:54.515 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:37:54.517 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:40:24.478 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:40:26.077 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:40:35.307 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:40:35.308 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:49:03.523 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:49:04.393 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:49:11.541 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:49:46.483 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:50:20.570 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:50:21.774 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:30.290 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:30.324 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:32.114 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:32.116 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:34.007 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:34.009 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:35.588 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:35.589 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:37.131 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:37.133 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:38.737 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:38.748 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:50:39.382 [main] Log - getRepositoires test is succeed.
+[INFO ] 2021-11-07 20:50:39.386 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:51:17.524 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:51:17.546 [main] Log - Setting Up Chrome Driver
+[INFO ] 2021-11-07 20:51:32.484 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:51:42.891 [main] Log - *********************************
+[INFO ] 2021-11-07 20:51:42.891 [main] Log - Printing First Page Results of:cypress
+[INFO ] 2021-11-07 20:51:43.945 [main] Log - cypress-io/cypress
+[INFO ] 2021-11-07 20:51:43.972 [main] Log - cypress-io/cypress-example-recipes
+[INFO ] 2021-11-07 20:51:44.003 [main] Log - cypress-io/cypress-realworld-app
+[INFO ] 2021-11-07 20:51:44.030 [main] Log - cypress-io/cypress-example-kitchensink
+[INFO ] 2021-11-07 20:51:44.057 [main] Log - cypress-io/cypress-documentation
+[INFO ] 2021-11-07 20:51:44.083 [main] Log - sorry-cypress/sorry-cypress
+[INFO ] 2021-11-07 20:51:44.109 [main] Log - jaredpalmer/cypress-image-snapshot
+[INFO ] 2021-11-07 20:51:44.136 [main] Log - TheBrainFamily/cypress-cucumber-preprocessor
+[INFO ] 2021-11-07 20:51:44.164 [main] Log - cypress-io/cypress-docker-images
+[INFO ] 2021-11-07 20:51:44.191 [main] Log - cypress-io/cypress-test-tiny
+[INFO ] 2021-11-07 20:51:44.191 [main] Log - *********************************
+[INFO ] 2021-11-07 20:51:44.195 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 20:51:44.202 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:51:48.800 [main] Log - *********************************
+[INFO ] 2021-11-07 20:51:48.800 [main] Log - Printing First Page Results of:selenium
+[INFO ] 2021-11-07 20:51:48.924 [main] Log - SeleniumHQ/selenium
+[INFO ] 2021-11-07 20:51:48.959 [main] Log - seleniumbase/SeleniumBase
+[INFO ] 2021-11-07 20:51:48.989 [main] Log - tebeka/selenium
+[INFO ] 2021-11-07 20:51:49.122 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 20:51:49.161 [main] Log - SeleniumHQ/docker-selenium
+[INFO ] 2021-11-07 20:51:49.193 [main] Log - executeautomation/SeleniumWithCucucumber
+[INFO ] 2021-11-07 20:51:49.352 [main] Log - SeleniumHQ/selenium-ide
+[INFO ] 2021-11-07 20:51:49.511 [main] Log - baijum/selenium-python
+[INFO ] 2021-11-07 20:51:49.550 [main] Log - watir/watir
+[INFO ] 2021-11-07 20:51:49.577 [main] Log - naveenanimation20/SeleniumJavaCourse
+[INFO ] 2021-11-07 20:51:49.577 [main] Log - *********************************
+[INFO ] 2021-11-07 20:51:49.577 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 20:51:49.578 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:51:55.480 [main] Log - *********************************
+[INFO ] 2021-11-07 20:51:55.481 [main] Log - Printing First Page Results of:ROBOTFRAMEWORK
+[INFO ] 2021-11-07 20:51:55.537 [main] Log - robotframework/robotframework
+[INFO ] 2021-11-07 20:51:55.571 [main] Log - MarketSquare/robotframework-requests
+[INFO ] 2021-11-07 20:51:55.602 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 20:51:55.665 [main] Log - fkromer/awesome-robotframework
+[INFO ] 2021-11-07 20:51:55.692 [main] Log - franz-see/Robotframework-Database-Library
+[INFO ] 2021-11-07 20:51:55.725 [main] Log - robotframework/SeleniumLibrary
+[INFO ] 2021-11-07 20:51:55.755 [main] Log - up1/course-robotframework
+[INFO ] 2021-11-07 20:51:55.799 [main] Log - boakley/robotframework-hub
+[INFO ] 2021-11-07 20:51:55.871 [main] Log - peritus/robotframework-httplibrary
+[INFO ] 2021-11-07 20:51:55.933 [main] Log - ncbi/robotframework-pageobjects
+[INFO ] 2021-11-07 20:51:55.933 [main] Log - *********************************
+[INFO ] 2021-11-07 20:51:55.933 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 20:51:55.934 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:52:00.588 [main] Log - *********************************
+[INFO ] 2021-11-07 20:52:00.588 [main] Log - Printing First Page Results of:data +ana
+[INFO ] 2021-11-07 20:52:00.629 [main] Log - BahramJannesar/BikeShare
+[INFO ] 2021-11-07 20:52:00.734 [main] Log - IntelligentSolution-Dz/University-of-Liverpool-ion-switching
+[INFO ] 2021-11-07 20:52:00.792 [main] Log - adichouhan14/Covid-Project
+[INFO ] 2021-11-07 20:52:00.837 [main] Log - panbognot/stana
+[INFO ] 2021-11-07 20:52:00.885 [main] Log - alexnaoki/LHC_Hidroweb_Kivy
+[INFO ] 2021-11-07 20:52:00.978 [main] Log - sp3ncore/data499Project
+[INFO ] 2021-11-07 20:52:01.022 [main] Log - Rodgers-Luo/get_data
+[INFO ] 2021-11-07 20:52:01.052 [main] Log - lightxu/fetch_flight_data
+[INFO ] 2021-11-07 20:52:01.107 [main] Log - 945GeekBoy/-
+[INFO ] 2021-11-07 20:52:01.136 [main] Log - EvanOmy/Omy
+[INFO ] 2021-11-07 20:52:01.136 [main] Log - *********************************
+[INFO ] 2021-11-07 20:52:01.136 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 20:52:01.137 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:52:06.931 [main] Log - *********************************
+[INFO ] 2021-11-07 20:52:06.931 [main] Log - Printing First Page Results of:MetRIcs
+[INFO ] 2021-11-07 20:52:06.982 [main] Log - dropwizard/metrics
+[INFO ] 2021-11-07 20:52:07.026 [main] Log - prometheus/node_exporter
+[INFO ] 2021-11-07 20:52:07.069 [main] Log - GoogleChrome/lighthouse
+[INFO ] 2021-11-07 20:52:07.104 [main] Log - lowlighter/metrics
+[INFO ] 2021-11-07 20:52:07.159 [main] Log - benhamner/Metrics
+[INFO ] 2021-11-07 20:52:07.190 [main] Log - influxdata/telegraf
+[INFO ] 2021-11-07 20:52:07.302 [main] Log - influxdata/influxdb
+[INFO ] 2021-11-07 20:52:07.365 [main] Log - micrometer-metrics/micrometer
+[INFO ] 2021-11-07 20:52:07.415 [main] Log - bcicen/ctop
+[INFO ] 2021-11-07 20:52:07.461 [main] Log - kubernetes-sigs/metrics-server
+[INFO ] 2021-11-07 20:52:07.461 [main] Log - *********************************
+[INFO ] 2021-11-07 20:52:07.462 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 20:52:07.463 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:52:12.516 [main] Log - *********************************
+[INFO ] 2021-11-07 20:52:12.517 [main] Log - Printing First Page Results of: appium 
+[INFO ] 2021-11-07 20:52:12.575 [main] Log - appium/appium
+[INFO ] 2021-11-07 20:52:12.641 [main] Log - appium/appium-desktop
+[INFO ] 2021-11-07 20:52:12.696 [main] Log - AppiumTestDistribution/AppiumTestDistribution
+[INFO ] 2021-11-07 20:52:12.746 [main] Log - appium/python-client
+[INFO ] 2021-11-07 20:52:12.790 [main] Log - Louis-me/appiumn_auto
+[INFO ] 2021-11-07 20:52:12.864 [main] Log - Louis-me/appium
+[INFO ] 2021-11-07 20:52:12.971 [main] Log - appium/appium-android-driver
+[INFO ] 2021-11-07 20:52:13.023 [main] Log - appium/appium-xcuitest-driver
+[INFO ] 2021-11-07 20:52:13.078 [main] Log - serhatbolsu/robotframework-appiumlibrary
+[INFO ] 2021-11-07 20:52:13.162 [main] Log - microsoft/WinAppDriver
+[INFO ] 2021-11-07 20:52:13.162 [main] Log - *********************************
+[INFO ] 2021-11-07 20:52:13.163 [main] Log - gitHubFlow test is succeed.
+[INFO ] 2021-11-07 20:52:13.165 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:52:16.146 [main] Log - gitHubFlow test is skipped.
+[INFO ] 2021-11-07 20:52:16.151 [main] Log - gitHubFlow test is starting.
+[INFO ] 2021-11-07 20:52:19.602 [main] Log - gitHubFlow test is failed.
+[INFO ] 2021-11-07 20:52:19.746 [main] Log - Browser Quit
+[INFO ] 2021-11-07 20:52:20.717 [main] Log - I am in onFinish method Search Repositiories
+[INFO ] 2021-11-07 20:54:33.240 [main] Log - I am in onStart method Search Repositiories
+[INFO ] 2021-11-07 20:54:34.937 [main] Log - getRepositoires test is starting.
+[INFO ] 2021-11-07 20:54:42.222 [main] Log - getRepositoires test is failed.
+[INFO ] 2021-11-07 20:54:42.243 [main] Log - I am in onFinish method Search Repositiories

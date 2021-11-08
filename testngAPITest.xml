@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Beam Assignment">
+<listeners>
+        <listener class-name="com.oleti.utils.listners.TestListener"/>
+        <listener class-name="com.oleti.utils.listners.AnnotationTransformer"/>
+    </listeners>
+  <test  name="Search Repositiories">
+    <classes>
+      <class name="com.oleti.seleniumdesign.test.srp.SearchAPITest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
